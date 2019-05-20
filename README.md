@@ -2,14 +2,14 @@
 
 Javascript study 
 
-###Goals
+### Goals
 * [Javascript Module](#javascript-module)
 * [ES6 + babel + webpack](#es6--babel--webpack)
 * [TypeScript + babel + webpack](#typescript--babel--webpack)
 
-##javascript module
+## javascript module
 * `object listerals`
 * `module pattern`
-##ES6 + babel + webpack
+## ES6 + babel + webpack
 
-##TypeScript + babel + webpack
+## TypeScript + babel + webpack
